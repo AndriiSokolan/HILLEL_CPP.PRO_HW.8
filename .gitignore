@@ -1,0 +1,13 @@
+build/
+x64/
+*.exe
+*.pdb
+*.log
+*.obj
+*.cache
+.vs/
+.idea/
+*.vcxproj.user
+*.vcxproj
+*.vcxproj.filters
+
